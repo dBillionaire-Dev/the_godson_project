@@ -1,5 +1,0 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow: /api/ # Example: Disallow crawling of API routes if any exist
-
-Sitemap: https://www.blessinggodsondesign.com/sitemap.xml # Replace with actual domain later
